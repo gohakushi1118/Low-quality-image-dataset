@@ -18,7 +18,7 @@ Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to
 
-`st35810atv3d@gmail.com`.
+`gohakushi@gmail.com`.
 
 ## License
 
