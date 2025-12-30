@@ -7,7 +7,7 @@
 
 Due to the scarcity of suitable image datasets online related to low-quality images, we created a new dataset for this study. Low-quality image dataset is based on the COCO 2017 validation set, with images processed into four categories, including lossy compression, image intensity, image noise, and image blur.  In total, the dataset comprises 100,000 processed images. Each low-quality category includes five levels of image degradation with 5,000 processed images per level.
 
-[[arxiv]](https://arxiv.org/abs/2512.22801) [[Poster]]()
+[[arXiv]](https://arxiv.org/abs/2512.22801) [[Poster]]()
 
 ## Open-source resource
 
