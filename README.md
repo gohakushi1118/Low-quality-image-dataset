@@ -13,15 +13,9 @@ Due to the scarcity of suitable image datasets online related to low-quality ima
 
 Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset). If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
  
-<p align="center">
-  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_4.gif" height="150">
-</p>
-<p align="center">
-  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_6.gif" height="150">
-</p>
-<p align="center">
-  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_8.gif" height="150">
-</p>
+![](blur4.gif)
+![](blur6.gif)
+![](blur8.gif)
 
 
 ## Feedback
