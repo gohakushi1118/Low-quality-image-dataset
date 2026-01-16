@@ -7,15 +7,22 @@
 
 Due to the scarcity of suitable image datasets online related to low-quality images, we created a new dataset for this study. Low-quality image dataset is based on the COCO 2017 validation set, with images processed into four categories, including lossy compression, image intensity, image noise, and image blur.  In total, the dataset comprises 100,000 processed images. Each low-quality category includes five levels of image degradation with 5,000 processed images per level.
 
-[[arXiv]](https://arxiv.org/abs/2512.22801) [[Poster]]()
+[[arXiv]](https://arxiv.org/abs/2512.22801) [[Poster]](https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/SITCON_poster.pdf) [[Demo PDF]](https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/demo_pdf.pdf) [[Demo Video]](https://youtu.be/PT7ToBH9ZxE)
 
 ## Open-source resource
 
 Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset). If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
  
 <p align="center">
-  <img src="Low-quality.gif" height="150">
+  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_4.gif" height="150">
 </p>
+<p align="center">
+  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_6.gif" height="150">
+</p>
+<p align="center">
+  <img src="https://github.com/gohakushi1118/Low-quality-image-dataset/blob/main/blur_gif/blur_8.gif" height="150">
+</p>
+
 
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to
